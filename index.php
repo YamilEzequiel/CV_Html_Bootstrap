@@ -124,10 +124,7 @@
                          <strong>2012</strong><br>
                          Mecánica Automotriz – Cursado y aprobado 1º Año 
                          ITA – Inst. Tecnológico Avanzado – Rosario
-                        </li><br>
-
-                        <li>       
-                         <strong>2012</strong><br>
+                         <br>
                          Electricidad automotriz – Finalizado y Aprobado .
                          ITA – Inst. Tecnológico Avanzado – Rosario.
                         </li><br>
@@ -145,9 +142,23 @@
 
                         <li>       
                          <strong>2009-Actual </strong><br>
-                         Cursos Online y documentaciones de web oficiales sobre programacion, aprendizaje
+                         Cursos Online y documentaciones de sitios oficiales sobre programación, aprendizaje
                          autodidacta. Principalmente en lenguajes como Java,C#,PHP utilizando programas
                          como AndroidStudio,Unity y gestion de base de datos MySql.
+                        </li><br>
+
+                        <li>
+                        	<strong>2019</strong><br>
+                         PHP con Laravel y VueJs - Udemy<br>
+                         Seguridad Informatica y Configuracion de Redes<br>
+                         Máster en Programación de Videojuegos con Unity® 2019 y C#<br>
+                        </li><br>
+
+                        <li>
+                         <strong>2020</strong><br>
+                         API RestFull con Laravel 7 PHP y MySql - Udemy<br>
+                         Kotlin + Firebase + Google - Udemy<br>
+                         Curso de ingles Basico/Intermedio Online<br>
                         </li><br>
 
                     </ul>
@@ -177,20 +188,20 @@
                         
                         <li>       
                          <strong>Otros , Framework: </strong><br>
-                         jQuery, AJAX, JSON. Composer, Npm, Node, Bootstrap, Laravel, WP, MyBB.
+                         jQuery, AJAX, JSON. Composer, Npm, Node, Bootstrap, Laravel, WP, MyBB, VUE.
                         </li><br>
 
                         <li>       
                          <strong>Programas: </strong><br>
                          Eclipse, Android Studio, Dreamweaver, Photoshop, PhotoScape,
-                            FlashFXP, PsMonitor.SublimeText, Unity5, Cinema4D, GameMarker, Visual 
-                            Studio, Git Bash, XAMPP, Microsoft Office, Filezzila , Blender, GitHub.
+                            FlashFXP, PsMonitor, SublimeText, Unity5, Cinema4D, GameMarker, Visual 
+                            Studio Code, Git Bash, XAMPP, Microsoft Office, Filezzila , Blender, GitHub.
                         </li><br>
 
                         <li>       
                          <strong>Servicios Web: </strong><br>
-                         Redes, Google ( AdSense ,AdWords, Analytics, Tools, PlayConsole,
-                        PlayStore, Posicionamiento, MarketingWeb), GitHub.
+                         Redes, Google ( AdSense , AdMob ,AdWords, Analytics, Tools, Docs, PlayConsole,
+                        PlayStore, Posicionamiento (ASO y SEO) , MarketingWeb), GitHub, Trello, Diagrams
                         </li><br>
 
                     </ul>
