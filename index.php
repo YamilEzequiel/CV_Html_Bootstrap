@@ -59,7 +59,7 @@
             <div class="card shadow text-center" style="width: 16rem;">
                 <div class="card-body">
                 <a href="https://github.com/YamilEzequiel" target="_blank"><img src="image/github.png" ></a>
-                <a href="https://www.facebook.com/YamilLazzari/" target="_blank"><img src="image/facebook.png" ></a>
+               	<!-- <a href="https://www.facebook.com/YamilLazzari/" target="_blank"><img src="image/facebook.png" ></a>-->
                 <a href="https://www.linkedin.com/in/yamil-ruscalleda-619a1915b/" target="_blank"><img src="image/linkedin.png" ></a>
                 </div>
             </div><br>
