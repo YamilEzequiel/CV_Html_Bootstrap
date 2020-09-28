@@ -55,15 +55,22 @@
                         <a href="https://github.com/YamilEzequiel" target="_blank"><img src="image/github.png"></a>
                         <!-- <a href="https://www.facebook.com/YamilLazzari/" target="_blank"><img src="image/facebook.png" ></a>-->
                         <a href="https://www.linkedin.com/in/yamil-ruscalleda-619a1915b/" target="_blank"><img src="image/linkedin.png"></a>
+                        <a href="https://es.stackoverflow.com/users/58438/yamil-lazzari" target="_black"><img src="image/stackoverflow.png"></a>
                     </div>
-                </div><br>
+                </div> <br>
                 <div class="card shadow text-center" style="width: 16rem;">
                     <div class="card-body">
                         <p class="btn btn-secondary"><strong>CV</strong></p>
                         <p class="card-text">Realizado con HTML5 + Bootstrap</p>
                     </div>
                 </div>
-                <br><br>
+                <br>
+                <div class="card shadow text-center" style="width: 16rem;">
+                    <div class="card-body">
+                        <button class="btn btn-light" id="btn_white">White</button>
+                        <button class="btn btn-dark" id="btn_dark">Dark</button>
+                    </div>
+                </div>
 
             </div>
             <!--Finish Col-->
@@ -77,7 +84,7 @@
                         <ul>
                             <li>
                                 <strong>2017-Actual</strong><br>
-                                Programador freelance 
+                                Programador freelance
                             </li><br>
 
                             <li>
@@ -222,6 +229,7 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/data.js"></script>
 </footer>
 
 </html>
