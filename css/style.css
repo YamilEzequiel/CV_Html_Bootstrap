@@ -1,0 +1,9 @@
+body{
+        background-color: #f6f6f6;
+        margin-top: 25px;
+    }
+
+a:link, a:hover, a:visited{
+        text-decoration: none;
+        color: black;
+    }
