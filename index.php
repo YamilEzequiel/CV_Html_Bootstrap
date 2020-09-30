@@ -27,6 +27,12 @@
                 <br>
                 <div class="card shadow text-center" style="width: 16rem;">
                     <div class="card-body">
+                        <a href="http://198.50.154.144/~yamilruscalleda/CV/" target="_black"> <button class="btn btn-success">CV Online</button></a>
+                    </div>
+                </div>
+                <br>
+                <div class="card shadow text-center" style="width: 16rem;">
+                    <div class="card-body">
                         <a href="https://www.google.com/maps/place/Del+Campo+4339,+S2001JIA+Rosario,+Santa+Fe/" target="_blank" class="btn btn-outline-info">Psj del Campo 4339</a><br><br>
                         <a href="https://api.whatsapp.com/send?phone=3413203877" target="_blank" class="btn btn-outline-success">(341) 153203877</a><br><br>
                         <a href="mailto:yamillazzari@gmail.com" target="_blank" class="btn btn-outline-danger">Yamillazzari@gmail.com</a><br>
